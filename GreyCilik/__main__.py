@@ -218,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/asupanrlsbot?startgroup=new"),
+                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/geyaisbot?startgroup=new"),
                         ]
                     ]
                 ),
@@ -417,7 +417,7 @@ def cilik_about_callback(update, context):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/asupanrlsbot?startgroup=new"),
+                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/geyaisbot?startgroup=new"),
                         ]
                     ]
                 ),
