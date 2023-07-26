@@ -83,7 +83,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-CILIK_IMG = "https://telegra.ph/file/1768f132363de7b554b3b.jpg"
+CILIK_IMG = "https://graph.org/file/ea4bb638480f55653ce44.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting @jokpelid \
@@ -209,8 +209,8 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/yankeseleo"),
-                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/+uSY5LHBBqe9mODUx"),
+                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/menjajahpikiranmu"),
+                            InlineKeyboardButton(text="Instagram", url="instagram.com/muklaskhoiruu_"),
                         ],                        
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
@@ -408,8 +408,8 @@ def cilik_about_callback(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/yankeseleo"),
-                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/+uSY5LHBBqe9mODUx"),
+                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/menjajahpikiranmu"),
+                            InlineKeyboardButton(text="Support 🚀", url="instagram.com/muklaskhoiruu_"),
                         ],                        
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
