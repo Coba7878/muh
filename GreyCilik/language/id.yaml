@@ -9,19 +9,20 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang! 🤖"
 
 # PM Text
 pm_start_text: |
-  *Hello aku RED LINE SEX* [⚡️](https://telegra.ph//file/6f7d2641d558c8d88431f.jpg)
+  *Hello aku Geya* [💙](https://graph.org/file/ea4bb638480f55653ce44.jpg)
  
-  ❍ RED LINE SEX BOT adalah bot manager dan music untuk mengelola grup anda dengan baik.
+  ❍ Geya adalah manusia setengah robot yang bisa membantu mengelola grup telegram.
+  ❍ tapi ini bukan bot music. coming soon jika ada rezeki
   ❍ Tekan /help untuk Bantuan.
-  ❍ Maintaned By @yankeseleo.
+  
    
 group_start_text: |
-  *👋🏻 , Aku RED LINE SEX!* 
+  *👋🏻 , Aku Geya!* 
   
   *Mulai aktif sejak :* `{}`
 
 pm_about_text: |
-  ⚡️ Hai  saya *RED LINE SEX*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ⚡️
+  ⚡️ Hai  saya *GEYA*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ⚡️
 
   ❍ Saya dapat membatasi pengguna.
   ❍ Saya dapat menyapa pengguna dengan pesan selamat datang yang dapat disesuaikan dan bahkan menetapkan aturan grup.
@@ -35,7 +36,7 @@ pm_about_text: |
 pm_about_admin_text: |
   *⚡️ Ayo buat grupmu sedikit efektif sekarang ⚡️*
 
-  Selamat, 𝒍𝒊𝒃𝒊  sekarang siap untuk mengelola grup Anda.
+  Selamat, Geya sekarang siap untuk mengelola grup Anda.
 
   *Alat Admin*
   Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
@@ -50,13 +51,13 @@ pm_about_notes_text: |
   ❍ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
   ❍ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
 pm_about_support_text: |
-  *⚡️ Obrolan dukungan 𝒍𝒊𝒃𝒊 ⚡️*
+  *⚡️ Obrolan dukungan Geya ⚡️*
 
   Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di 𝒍𝒊𝒃𝒊.
 pm_about_credit_text: |
-  *⚡️ Credits for 𝒍𝒊𝒃𝒊 ⚡️*
+  *⚡️ Credits for Geya ⚡️*
 
-  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat 𝒍𝒊𝒃𝒊
+  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Geya
 pm_help_text: |
   *❍ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ❍*
   
@@ -82,19 +83,19 @@ group_settings_button: "Pengaturan"
 
 # Help Text
 help_all_text: |
-  *Menu Bantuan RED LINE SEX* [🗃](https://telegra.ph//file/6f7d2641d558c8d88431f.jpg)
+  *Menu Bantuan GEYA* [🗃](https://graph.org/file/ea4bb638480f55653ce44.jpg)
   
   Pilih tombol di bawah untuk melihat 
   bantuan perintah bot.
 help_musik_cilik_text: |
-  *RED LINE SEX Memiliki fitur Music dan Stream* 🎥
+  *Mohon Maaf Geya Belum Memiliki fitur Music dan Stream* 🎥
   
   Anda dapat mendengarkan musik dari platform Youtube,Spotify,Resso dll.
   Klik Tombol di bawah ini jika Anda tidak mengerti tentang fitur ini.
 
 # button Help Music
-help_manage: "👮🏻‍♂ Manager"
-help_musik: "🎼 Musik"
+help_manage: "Manager ✅"
+help_musik: "Musik ❌"
 
 # Music Help Pm
 admins_mhelp_text: |
@@ -183,7 +184,7 @@ notes_button: "Catatan"
 source_button: "Kode sumber"
 help_button: "❓ bantuan"
 back_button: "🔙 Kembali"
-about_button: "Tentang 𝒍𝒊𝒃𝒊 🤖"
+about_button: "Tentang Geya"
 inline_button: "inline!​​"
 buttonback_lang: "🔙 Kembali"
 datalang: "Bahasa 🇮🇩" 
@@ -191,8 +192,8 @@ donate_button: "Donasi ☕️"
 
 # Donate
 donate_text: |
-  [👨‍💻](https://telegra.ph//file/d6f2b33e6f78b9a38066e.jpg) *Untuk kalian yang ingin berdonasi* 
-  silahkan scan Qris dibawah ini, agar bot RED LINE SEX tetap hidup dan membantu aktifitas anda di Telegram.
+  [👨‍💻](https://graph.org/file/ea4bb638480f55653ce44.jpg) *Untuk kalian yang ingin berdonasi* 
+  silahkan hubungi akun telegram @menjajahpikiranmu, agar bot Geya tetap hidup dan membantu aktifitas anda di Telegram.
   
 # MODULES
 admin_help: |
@@ -369,7 +370,7 @@ bug_help : |
 chatbot_help: |
     ──「 Bot Obrolan AI 」──
 
-    𝒍𝒊𝒃𝒊 AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
+    Geya AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
 
     ❍ /chatbot [ON/OFF]: Mengaktifkan dan menonaktifkan mode AI Chat.
     ❍ /chatbot EN : Mengaktifkan chatbot berbahasa Inggris saja.
