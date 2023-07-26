@@ -409,7 +409,7 @@ def cilik_about_callback(update, context):
                     [
                         [
                             InlineKeyboardButton(text="🧸 Owner", url="https://t.me/menjajahpikiranmu"),
-                            InlineKeyboardButton(text="Support 🚀", url="instagram.com/muklaskhoiruu_"),
+                            InlineKeyboardButton(text="Instagram", url="instagram.com/muklaskhoiruu_"),
                         ],                        
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
